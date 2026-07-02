@@ -50,7 +50,7 @@ void onDisconnectedController(ControllerPtr ctl) {
   }
 }
 
-//Aqui que mostra pra ver os bagulho la
+//Mostrar os valores do controle
 
 void dumpGamepad(ControllerPtr ctl) {
   Serial.printf(
